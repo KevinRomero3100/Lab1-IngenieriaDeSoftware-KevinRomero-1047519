@@ -8,27 +8,17 @@ namespace Lab1_Inyeccion_de_Dependencias.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
-        private  ITransient _transientPilot;
-        private  IScoped _scopedPilot;
-        private  IScoped _scopedPilot2;
-        private  ISingelton _singeltonPilot;
+        public ITransientC Carrera;
 
-
-        public HomeController(ITransient transient, IScoped scoped, IScoped scoped2, ISingelton singelton)
+        public HomeController(ITransientC _carrera)
         {
-            _transientPilot = transient;
-            _scopedPilot = scoped;
-            _scopedPilot2 = scoped2;
-            _singeltonPilot = singelton;
+            Carrera = _carrera;
         }
 
 
         public IActionResult Index()
         {
-            ViewBag.transient = _transientPilot;
-            ViewBag.scoped = _scopedPilot;
-            ViewBag.scoped2 = _scopedPilot2;
-            ViewBag.singelton = _singeltonPilot;
+            ViewBag.Carrera = Carrera;
             return View();
         }
 

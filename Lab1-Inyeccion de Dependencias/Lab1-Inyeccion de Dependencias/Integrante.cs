@@ -13,7 +13,7 @@
 
     }
 
-    public class Integrante: ITransient, IScoped, ISingelton
+    public class Integrante: ISingelton, ITransient, IScoped
     {
         public  int Age;
         public string Name;

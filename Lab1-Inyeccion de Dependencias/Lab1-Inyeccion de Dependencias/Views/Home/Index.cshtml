@@ -1,15 +1,24 @@
-﻿@model IEnumerable<Pilot>
+﻿
+@model IEnumerable<Carrera>
 @{
     ViewData["Title"] = "Home Page";
-    var transient = (Pilot)ViewBag.transient;
-    var scoped = (Pilot)ViewBag.scoped;
-    var scoped2 = (Pilot)ViewBag.scoped2;
-    var singelton = (Pilot)ViewBag.singelton;
-}
+    var CarreraF1 = (Carrera)ViewBag.Carrera;
 
+    var Equipo1 = (Equipo)ViewBag.Carrera.Equipo1;
+    var Equipo2 = (Equipo)ViewBag.Carrera.Equipo2;
+    var Equipo3 = (Equipo)ViewBag.Carrera.Equipo3;
+
+    var Piloto11 = (Pilot)ViewBag.Carrera.Equipo1.Piloto1;
+    var Piloto12 = (Pilot)ViewBag.Carrera.Equipo1.Piloto2;
+    var Piloto21 = (Pilot)ViewBag.Carrera.Equipo2.Piloto1;
+    var Piloto22 = (Pilot)ViewBag.Carrera.Equipo2.Piloto2;
+    var Piloto31 = (Pilot)ViewBag.Carrera.Equipo3.Piloto1;
+    var Piloto32 = (Pilot)ViewBag.Carrera.Equipo3.Piloto2;
+}
+ 
 <div class="text-center">
-    <b>Pilotos Formula 1</b> 
-</div>
+    <b>@Html.DisplayFor(modelItem => CarreraF1.Descripcion) - Transient</b>
+    </div>
 
 <div class="row">
     <div class="table-responsive">
@@ -17,8 +26,9 @@
             <thead>
                 <tr>
                     <th>Tipo de objeto</th>
-                    <th>Edad</th>
+                    <th>Escuderia</th>
                     <th>Nombre</th>
+                    <th>Edad</th>
                     <th>No. Licencia</th>
                     <th>Puntos de Licencia</th>
                     <th>Campeonatos Ganados</th>
@@ -29,111 +39,181 @@
             <tbody>
                 <tr>
                     <td>
-                        Singelton
+                        Scoped, Singelton
                     </td>
                     <td>
-                        @Html.DisplayFor(modelItem => singelton.Name)
+                        @Html.DisplayFor(modelItem => Equipo1.Escuderia)
                     </td>
                     <td>
-                        @Html.DisplayFor(modelItem => singelton.Age)
+                        @Html.DisplayFor(modelItem => Piloto11.Name)
                     </td>
                     <td>
-                        @Html.DisplayFor(modelItem => singelton.Licencia)
+                        @Html.DisplayFor(modelItem => Piloto11.Age)
                     </td>
                     <td>
-                        @Html.DisplayFor(modelItem => singelton.PuntosSuperLicencia)
+                        @Html.DisplayFor(modelItem => Piloto11.Licencia)
                     </td>
                     <td>
-                        @Html.DisplayFor(modelItem => singelton.CampeonatosGanados)
+                        @Html.DisplayFor(modelItem => Piloto11.PuntosSuperLicencia)
                     </td>
                     <td>
-                        @Html.DisplayFor(modelItem => singelton.CarrerasGanadas)
+                        @Html.DisplayFor(modelItem => Piloto11.CampeonatosGanados)
                     </td>
                     <td>
-                        @Html.DisplayFor(modelItem => singelton.PuntosTemporada)
+                        @Html.DisplayFor(modelItem => Piloto11.CarrerasGanadas)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => Piloto11.PuntosTemporada)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Scoped, Transient
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => Equipo1.Escuderia)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => Piloto12.Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => Piloto12.Age)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => Piloto12.Licencia)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => Piloto12.PuntosSuperLicencia)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => Piloto12.CampeonatosGanados)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => Piloto12.CarrerasGanadas)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => Piloto12.PuntosTemporada)
                     </td>
                 </tr>
 
                 <tr>
                     <td>
-                        Transient
+                        Transient, Singelton
                     </td>
                     <td>
-                        @Html.DisplayFor(modelItem => transient.Name)
+                        @Html.DisplayFor(modelItem => Equipo2.Escuderia)
                     </td>
                     <td>
-                        @Html.DisplayFor(modelItem => transient.Age)
+                        @Html.DisplayFor(modelItem => Piloto21.Name)
                     </td>
                     <td>
-                        @Html.DisplayFor(modelItem => transient.Licencia)
-                    </td>
-                     <td>
-                        @Html.DisplayFor(modelItem => transient.PuntosSuperLicencia)
+                        @Html.DisplayFor(modelItem => Piloto21.Age)
                     </td>
                     <td>
-                        @Html.DisplayFor(modelItem => transient.CampeonatosGanados)
+                        @Html.DisplayFor(modelItem => Piloto21.Licencia)
                     </td>
                     <td>
-                        @Html.DisplayFor(modelItem => transient.CarrerasGanadas)
+                        @Html.DisplayFor(modelItem => Piloto21.PuntosSuperLicencia)
                     </td>
                     <td>
-                        @Html.DisplayFor(modelItem => transient.PuntosTemporada)
-                    </td>
-                </tr>
-                
-                <tr>
-                    <td>
-                        Scoped 1
+                        @Html.DisplayFor(modelItem => Piloto21.CampeonatosGanados)
                     </td>
                     <td>
-                        @Html.DisplayFor(modelItem => scoped.Name)
+                        @Html.DisplayFor(modelItem => Piloto21.CarrerasGanadas)
                     </td>
                     <td>
-                        @Html.DisplayFor(modelItem => scoped.Age)
-                    </td>
-                    <td>
-                        @Html.DisplayFor(modelItem => scoped.Licencia)
-                    </td>
-                    <td>
-                        @Html.DisplayFor(modelItem => scoped.PuntosSuperLicencia)
-                    </td>
-                    <td>
-                        @Html.DisplayFor(modelItem => scoped.CampeonatosGanados)
-                    </td>
-                    <td>
-                        @Html.DisplayFor(modelItem => scoped.CarrerasGanadas)
-                    </td>
-                    <td>
-                        @Html.DisplayFor(modelItem => scoped.PuntosTemporada)
+                        @Html.DisplayFor(modelItem => Piloto21.PuntosTemporada)
                     </td>
                 </tr>
                 <tr>
                     <td>
-                        Scoped 2
+                        Transient, Transient
                     </td>
                     <td>
-                        @Html.DisplayFor(modelItem => scoped2.Name)
+                        @Html.DisplayFor(modelItem => Equipo2.Escuderia)
                     </td>
                     <td>
-                        @Html.DisplayFor(modelItem => scoped2.Age)
+                        @Html.DisplayFor(modelItem => Piloto22.Name)
                     </td>
                     <td>
-                        @Html.DisplayFor(modelItem => scoped2.Licencia)
+                        @Html.DisplayFor(modelItem => Piloto22.Age)
                     </td>
                     <td>
-                        @Html.DisplayFor(modelItem => scoped2.PuntosSuperLicencia)
+                        @Html.DisplayFor(modelItem => Piloto22.Licencia)
                     </td>
                     <td>
-                        @Html.DisplayFor(modelItem => scoped2.CampeonatosGanados)
+                        @Html.DisplayFor(modelItem => Piloto22.PuntosSuperLicencia)
                     </td>
                     <td>
-                        @Html.DisplayFor(modelItem => scoped2.CarrerasGanadas)
+                        @Html.DisplayFor(modelItem => Piloto22.CampeonatosGanados)
                     </td>
                     <td>
-                        @Html.DisplayFor(modelItem => scoped2.PuntosTemporada)
+                        @Html.DisplayFor(modelItem => Piloto22.CarrerasGanadas)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => Piloto22.PuntosTemporada)
                     </td>
                 </tr>
-                
+
+                <tr>
+                    <td>
+                        Singelton, Singelton
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => Equipo3.Escuderia)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => Piloto31.Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => Piloto31.Age)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => Piloto31.Licencia)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => Piloto31.PuntosSuperLicencia)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => Piloto31.CampeonatosGanados)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => Piloto31.CarrerasGanadas)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => Piloto31.PuntosTemporada)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Singelton, Transient
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => Equipo3.Escuderia)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => Piloto32.Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => Piloto32.Age)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => Piloto32.Licencia)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => Piloto32.PuntosSuperLicencia)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => Piloto32.CampeonatosGanados)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => Piloto32.CarrerasGanadas)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => Piloto32.PuntosTemporada)
+                    </td>
+                </tr>
+
         </table>
 
         <input type="button" value="Refrescar" onclick="location.href='@Url.Action("Index")'"  /> 

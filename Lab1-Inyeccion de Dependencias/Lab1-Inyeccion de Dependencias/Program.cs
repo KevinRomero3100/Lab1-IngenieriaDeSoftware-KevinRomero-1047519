@@ -5,9 +5,20 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-builder.Services.AddTransient<ITransient,Pilot>();
+
+builder.Services.AddTransient<ITransientC, Carrera>();
+//builder.Services.AddScoped<IScopedC, Carrera>();
+//builder.Services.AddSingleton<ISingeltonC, Carrera>();
+
+
+builder.Services.AddTransient<ITransientE, Equipo>();
+builder.Services.AddScoped<IScopedE, Equipo>();
+builder.Services.AddSingleton<ISingeltonE, Equipo>();
+
+builder.Services.AddTransient<ITransient, Pilot>();
 builder.Services.AddScoped<IScoped, Pilot>();
 builder.Services.AddSingleton<ISingelton, Pilot>();
+
 
 var app = builder.Build();
 

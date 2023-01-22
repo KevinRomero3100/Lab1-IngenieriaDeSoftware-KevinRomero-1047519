@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\source\\repos\\Lab1-Inyeccion de Dependencias\\Lab1-Inyeccion de Dependencias\\Lab1-Inyeccion de Dependencias.csproj": {}
+    "C:\\Users\\Usuario\\Desktop\\Lab1-KevinRomero-1047519\\Lab1-Inyeccion de Dependencias\\Lab1-Inyeccion de Dependencias\\Lab1-Inyeccion de Dependencias.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\source\\repos\\Lab1-Inyeccion de Dependencias\\Lab1-Inyeccion de Dependencias\\Lab1-Inyeccion de Dependencias.csproj": {
+    "C:\\Users\\Usuario\\Desktop\\Lab1-KevinRomero-1047519\\Lab1-Inyeccion de Dependencias\\Lab1-Inyeccion de Dependencias\\Lab1-Inyeccion de Dependencias.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\Lab1-Inyeccion de Dependencias\\Lab1-Inyeccion de Dependencias\\Lab1-Inyeccion de Dependencias.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Lab1-KevinRomero-1047519\\Lab1-Inyeccion de Dependencias\\Lab1-Inyeccion de Dependencias\\Lab1-Inyeccion de Dependencias.csproj",
         "projectName": "Lab1-Inyeccion de Dependencias",
-        "projectPath": "C:\\Users\\Usuario\\source\\repos\\Lab1-Inyeccion de Dependencias\\Lab1-Inyeccion de Dependencias\\Lab1-Inyeccion de Dependencias.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\Lab1-KevinRomero-1047519\\Lab1-Inyeccion de Dependencias\\Lab1-Inyeccion de Dependencias\\Lab1-Inyeccion de Dependencias.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\source\\repos\\Lab1-Inyeccion de Dependencias\\Lab1-Inyeccion de Dependencias\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\Lab1-KevinRomero-1047519\\Lab1-Inyeccion de Dependencias\\Lab1-Inyeccion de Dependencias\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
