@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{C27FA26C-4B4C-4520-BC67-1EF4D61DD8B1}|Default">
+  <MonoDevelop.Ide.ItemProperties.Lab1-Inyeccion_220de_220Dependencias PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../Projects/chessAPI/Program.cs">
+    <Files>
+      <File FileName="../../../../Projects/chessAPI/Program.cs" Line="59" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab1-Inyeccion de Dependencias" expanded="True">
+            <Node name="Lab1-Inyeccion de Dependencias" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

@@ -1,52 +1,83 @@
-C:\Users\Usuario\source\repos\Lab1-Inyeccion de Dependencias\Lab1-Inyeccion de Dependencias\bin\Debug\net6.0\appsettings.Development.json
-C:\Users\Usuario\source\repos\Lab1-Inyeccion de Dependencias\Lab1-Inyeccion de Dependencias\bin\Debug\net6.0\appsettings.json
-C:\Users\Usuario\source\repos\Lab1-Inyeccion de Dependencias\Lab1-Inyeccion de Dependencias\bin\Debug\net6.0\Lab1-Inyeccion de Dependencias.staticwebassets.runtime.json
-C:\Users\Usuario\source\repos\Lab1-Inyeccion de Dependencias\Lab1-Inyeccion de Dependencias\bin\Debug\net6.0\Lab1-Inyeccion de Dependencias.exe
-C:\Users\Usuario\source\repos\Lab1-Inyeccion de Dependencias\Lab1-Inyeccion de Dependencias\bin\Debug\net6.0\Lab1-Inyeccion de Dependencias.deps.json
-C:\Users\Usuario\source\repos\Lab1-Inyeccion de Dependencias\Lab1-Inyeccion de Dependencias\bin\Debug\net6.0\Lab1-Inyeccion de Dependencias.runtimeconfig.json
-C:\Users\Usuario\source\repos\Lab1-Inyeccion de Dependencias\Lab1-Inyeccion de Dependencias\bin\Debug\net6.0\Lab1-Inyeccion de Dependencias.dll
-C:\Users\Usuario\source\repos\Lab1-Inyeccion de Dependencias\Lab1-Inyeccion de Dependencias\bin\Debug\net6.0\Lab1-Inyeccion de Dependencias.pdb
-C:\Users\Usuario\source\repos\Lab1-Inyeccion de Dependencias\Lab1-Inyeccion de Dependencias\obj\Debug\net6.0\Lab1-Inyeccion de Dependencias.csproj.AssemblyReference.cache
-C:\Users\Usuario\source\repos\Lab1-Inyeccion de Dependencias\Lab1-Inyeccion de Dependencias\obj\Debug\net6.0\Lab1-Inyeccion de Dependencias.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Usuario\source\repos\Lab1-Inyeccion de Dependencias\Lab1-Inyeccion de Dependencias\obj\Debug\net6.0\Lab1-Inyeccion de Dependencias.AssemblyInfoInputs.cache
-C:\Users\Usuario\source\repos\Lab1-Inyeccion de Dependencias\Lab1-Inyeccion de Dependencias\obj\Debug\net6.0\Lab1-Inyeccion de Dependencias.AssemblyInfo.cs
-C:\Users\Usuario\source\repos\Lab1-Inyeccion de Dependencias\Lab1-Inyeccion de Dependencias\obj\Debug\net6.0\Lab1-Inyeccion de Dependencias.csproj.CoreCompileInputs.cache
-C:\Users\Usuario\source\repos\Lab1-Inyeccion de Dependencias\Lab1-Inyeccion de Dependencias\obj\Debug\net6.0\Lab1-Inyeccion de Dependencias.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Usuario\source\repos\Lab1-Inyeccion de Dependencias\Lab1-Inyeccion de Dependencias\obj\Debug\net6.0\Lab1-Inyeccion de Dependencias.RazorAssemblyInfo.cache
-C:\Users\Usuario\source\repos\Lab1-Inyeccion de Dependencias\Lab1-Inyeccion de Dependencias\obj\Debug\net6.0\Lab1-Inyeccion de Dependencias.RazorAssemblyInfo.cs
-C:\Users\Usuario\source\repos\Lab1-Inyeccion de Dependencias\Lab1-Inyeccion de Dependencias\obj\Debug\net6.0\staticwebassets.build.json
-C:\Users\Usuario\source\repos\Lab1-Inyeccion de Dependencias\Lab1-Inyeccion de Dependencias\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\Usuario\source\repos\Lab1-Inyeccion de Dependencias\Lab1-Inyeccion de Dependencias\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
-C:\Users\Usuario\source\repos\Lab1-Inyeccion de Dependencias\Lab1-Inyeccion de Dependencias\obj\Debug\net6.0\scopedcss\bundle\Lab1-Inyeccion de Dependencias.styles.css
-C:\Users\Usuario\source\repos\Lab1-Inyeccion de Dependencias\Lab1-Inyeccion de Dependencias\obj\Debug\net6.0\scopedcss\projectbundle\Lab1-Inyeccion de Dependencias.bundle.scp.css
-C:\Users\Usuario\source\repos\Lab1-Inyeccion de Dependencias\Lab1-Inyeccion de Dependencias\obj\Debug\net6.0\Lab1-Inyeccion de Dependencias.dll
-C:\Users\Usuario\source\repos\Lab1-Inyeccion de Dependencias\Lab1-Inyeccion de Dependencias\obj\Debug\net6.0\refint\Lab1-Inyeccion de Dependencias.dll
-C:\Users\Usuario\source\repos\Lab1-Inyeccion de Dependencias\Lab1-Inyeccion de Dependencias\obj\Debug\net6.0\Lab1-Inyeccion de Dependencias.pdb
-C:\Users\Usuario\source\repos\Lab1-Inyeccion de Dependencias\Lab1-Inyeccion de Dependencias\obj\Debug\net6.0\Lab1-Inyeccion de Dependencias.genruntimeconfig.cache
-C:\Users\Usuario\source\repos\Lab1-Inyeccion de Dependencias\Lab1-Inyeccion de Dependencias\obj\Debug\net6.0\ref\Lab1-Inyeccion de Dependencias.dll
-C:\Users\Usuario\Desktop\Lab1-KevinRomero-1047519\Lab1-Inyeccion de Dependencias\Lab1-Inyeccion de Dependencias\bin\Debug\net6.0\appsettings.Development.json
-C:\Users\Usuario\Desktop\Lab1-KevinRomero-1047519\Lab1-Inyeccion de Dependencias\Lab1-Inyeccion de Dependencias\bin\Debug\net6.0\appsettings.json
-C:\Users\Usuario\Desktop\Lab1-KevinRomero-1047519\Lab1-Inyeccion de Dependencias\Lab1-Inyeccion de Dependencias\bin\Debug\net6.0\Lab1-Inyeccion de Dependencias.staticwebassets.runtime.json
-C:\Users\Usuario\Desktop\Lab1-KevinRomero-1047519\Lab1-Inyeccion de Dependencias\Lab1-Inyeccion de Dependencias\bin\Debug\net6.0\Lab1-Inyeccion de Dependencias.exe
-C:\Users\Usuario\Desktop\Lab1-KevinRomero-1047519\Lab1-Inyeccion de Dependencias\Lab1-Inyeccion de Dependencias\bin\Debug\net6.0\Lab1-Inyeccion de Dependencias.deps.json
-C:\Users\Usuario\Desktop\Lab1-KevinRomero-1047519\Lab1-Inyeccion de Dependencias\Lab1-Inyeccion de Dependencias\bin\Debug\net6.0\Lab1-Inyeccion de Dependencias.runtimeconfig.json
-C:\Users\Usuario\Desktop\Lab1-KevinRomero-1047519\Lab1-Inyeccion de Dependencias\Lab1-Inyeccion de Dependencias\bin\Debug\net6.0\Lab1-Inyeccion de Dependencias.dll
-C:\Users\Usuario\Desktop\Lab1-KevinRomero-1047519\Lab1-Inyeccion de Dependencias\Lab1-Inyeccion de Dependencias\bin\Debug\net6.0\Lab1-Inyeccion de Dependencias.pdb
-C:\Users\Usuario\Desktop\Lab1-KevinRomero-1047519\Lab1-Inyeccion de Dependencias\Lab1-Inyeccion de Dependencias\obj\Debug\net6.0\Lab1-Inyeccion de Dependencias.csproj.AssemblyReference.cache
-C:\Users\Usuario\Desktop\Lab1-KevinRomero-1047519\Lab1-Inyeccion de Dependencias\Lab1-Inyeccion de Dependencias\obj\Debug\net6.0\Lab1-Inyeccion de Dependencias.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Usuario\Desktop\Lab1-KevinRomero-1047519\Lab1-Inyeccion de Dependencias\Lab1-Inyeccion de Dependencias\obj\Debug\net6.0\Lab1-Inyeccion de Dependencias.AssemblyInfoInputs.cache
-C:\Users\Usuario\Desktop\Lab1-KevinRomero-1047519\Lab1-Inyeccion de Dependencias\Lab1-Inyeccion de Dependencias\obj\Debug\net6.0\Lab1-Inyeccion de Dependencias.AssemblyInfo.cs
-C:\Users\Usuario\Desktop\Lab1-KevinRomero-1047519\Lab1-Inyeccion de Dependencias\Lab1-Inyeccion de Dependencias\obj\Debug\net6.0\Lab1-Inyeccion de Dependencias.csproj.CoreCompileInputs.cache
-C:\Users\Usuario\Desktop\Lab1-KevinRomero-1047519\Lab1-Inyeccion de Dependencias\Lab1-Inyeccion de Dependencias\obj\Debug\net6.0\Lab1-Inyeccion de Dependencias.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Usuario\Desktop\Lab1-KevinRomero-1047519\Lab1-Inyeccion de Dependencias\Lab1-Inyeccion de Dependencias\obj\Debug\net6.0\Lab1-Inyeccion de Dependencias.RazorAssemblyInfo.cache
-C:\Users\Usuario\Desktop\Lab1-KevinRomero-1047519\Lab1-Inyeccion de Dependencias\Lab1-Inyeccion de Dependencias\obj\Debug\net6.0\Lab1-Inyeccion de Dependencias.RazorAssemblyInfo.cs
-C:\Users\Usuario\Desktop\Lab1-KevinRomero-1047519\Lab1-Inyeccion de Dependencias\Lab1-Inyeccion de Dependencias\obj\Debug\net6.0\staticwebassets.build.json
-C:\Users\Usuario\Desktop\Lab1-KevinRomero-1047519\Lab1-Inyeccion de Dependencias\Lab1-Inyeccion de Dependencias\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\Usuario\Desktop\Lab1-KevinRomero-1047519\Lab1-Inyeccion de Dependencias\Lab1-Inyeccion de Dependencias\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
-C:\Users\Usuario\Desktop\Lab1-KevinRomero-1047519\Lab1-Inyeccion de Dependencias\Lab1-Inyeccion de Dependencias\obj\Debug\net6.0\scopedcss\bundle\Lab1-Inyeccion de Dependencias.styles.css
-C:\Users\Usuario\Desktop\Lab1-KevinRomero-1047519\Lab1-Inyeccion de Dependencias\Lab1-Inyeccion de Dependencias\obj\Debug\net6.0\scopedcss\projectbundle\Lab1-Inyeccion de Dependencias.bundle.scp.css
-C:\Users\Usuario\Desktop\Lab1-KevinRomero-1047519\Lab1-Inyeccion de Dependencias\Lab1-Inyeccion de Dependencias\obj\Debug\net6.0\Lab1-Inyeccion de Dependencias.dll
-C:\Users\Usuario\Desktop\Lab1-KevinRomero-1047519\Lab1-Inyeccion de Dependencias\Lab1-Inyeccion de Dependencias\obj\Debug\net6.0\refint\Lab1-Inyeccion de Dependencias.dll
-C:\Users\Usuario\Desktop\Lab1-KevinRomero-1047519\Lab1-Inyeccion de Dependencias\Lab1-Inyeccion de Dependencias\obj\Debug\net6.0\Lab1-Inyeccion de Dependencias.pdb
-C:\Users\Usuario\Desktop\Lab1-KevinRomero-1047519\Lab1-Inyeccion de Dependencias\Lab1-Inyeccion de Dependencias\obj\Debug\net6.0\Lab1-Inyeccion de Dependencias.genruntimeconfig.cache
-C:\Users\Usuario\Desktop\Lab1-KevinRomero-1047519\Lab1-Inyeccion de Dependencias\Lab1-Inyeccion de Dependencias\obj\Debug\net6.0\ref\Lab1-Inyeccion de Dependencias.dll
+C:/Users/Usuario/source/repos/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/Usuario/source/repos/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/bin/Debug/net6.0/appsettings.json
+C:/Users/Usuario/source/repos/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/bin/Debug/net6.0/Lab1-Inyeccion de Dependencias.staticwebassets.runtime.json
+C:/Users/Usuario/source/repos/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/bin/Debug/net6.0/Lab1-Inyeccion de Dependencias.exe
+C:/Users/Usuario/source/repos/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/bin/Debug/net6.0/Lab1-Inyeccion de Dependencias.deps.json
+C:/Users/Usuario/source/repos/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/bin/Debug/net6.0/Lab1-Inyeccion de Dependencias.runtimeconfig.json
+C:/Users/Usuario/source/repos/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/bin/Debug/net6.0/Lab1-Inyeccion de Dependencias.dll
+C:/Users/Usuario/source/repos/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/bin/Debug/net6.0/Lab1-Inyeccion de Dependencias.pdb
+C:/Users/Usuario/source/repos/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/obj/Debug/net6.0/Lab1-Inyeccion de Dependencias.csproj.AssemblyReference.cache
+C:/Users/Usuario/source/repos/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/obj/Debug/net6.0/Lab1-Inyeccion de Dependencias.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Usuario/source/repos/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/obj/Debug/net6.0/Lab1-Inyeccion de Dependencias.AssemblyInfoInputs.cache
+C:/Users/Usuario/source/repos/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/obj/Debug/net6.0/Lab1-Inyeccion de Dependencias.AssemblyInfo.cs
+C:/Users/Usuario/source/repos/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/obj/Debug/net6.0/Lab1-Inyeccion de Dependencias.csproj.CoreCompileInputs.cache
+C:/Users/Usuario/source/repos/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/obj/Debug/net6.0/Lab1-Inyeccion de Dependencias.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Usuario/source/repos/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/obj/Debug/net6.0/Lab1-Inyeccion de Dependencias.RazorAssemblyInfo.cache
+C:/Users/Usuario/source/repos/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/obj/Debug/net6.0/Lab1-Inyeccion de Dependencias.RazorAssemblyInfo.cs
+C:/Users/Usuario/source/repos/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/Usuario/source/repos/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/Usuario/source/repos/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/Usuario/source/repos/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/obj/Debug/net6.0/scopedcss/bundle/Lab1-Inyeccion de Dependencias.styles.css
+C:/Users/Usuario/source/repos/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/obj/Debug/net6.0/scopedcss/projectbundle/Lab1-Inyeccion de Dependencias.bundle.scp.css
+C:/Users/Usuario/source/repos/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/obj/Debug/net6.0/Lab1-Inyeccion de Dependencias.dll
+C:/Users/Usuario/source/repos/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/obj/Debug/net6.0/refint/Lab1-Inyeccion de Dependencias.dll
+C:/Users/Usuario/source/repos/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/obj/Debug/net6.0/Lab1-Inyeccion de Dependencias.pdb
+C:/Users/Usuario/source/repos/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/obj/Debug/net6.0/Lab1-Inyeccion de Dependencias.genruntimeconfig.cache
+C:/Users/Usuario/source/repos/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/obj/Debug/net6.0/ref/Lab1-Inyeccion de Dependencias.dll
+C:/Users/Usuario/Desktop/Lab1-KevinRomero-1047519/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/Usuario/Desktop/Lab1-KevinRomero-1047519/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/bin/Debug/net6.0/appsettings.json
+C:/Users/Usuario/Desktop/Lab1-KevinRomero-1047519/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/bin/Debug/net6.0/Lab1-Inyeccion de Dependencias.staticwebassets.runtime.json
+C:/Users/Usuario/Desktop/Lab1-KevinRomero-1047519/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/bin/Debug/net6.0/Lab1-Inyeccion de Dependencias.exe
+C:/Users/Usuario/Desktop/Lab1-KevinRomero-1047519/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/bin/Debug/net6.0/Lab1-Inyeccion de Dependencias.deps.json
+C:/Users/Usuario/Desktop/Lab1-KevinRomero-1047519/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/bin/Debug/net6.0/Lab1-Inyeccion de Dependencias.runtimeconfig.json
+C:/Users/Usuario/Desktop/Lab1-KevinRomero-1047519/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/bin/Debug/net6.0/Lab1-Inyeccion de Dependencias.dll
+C:/Users/Usuario/Desktop/Lab1-KevinRomero-1047519/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/bin/Debug/net6.0/Lab1-Inyeccion de Dependencias.pdb
+C:/Users/Usuario/Desktop/Lab1-KevinRomero-1047519/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/obj/Debug/net6.0/Lab1-Inyeccion de Dependencias.csproj.AssemblyReference.cache
+C:/Users/Usuario/Desktop/Lab1-KevinRomero-1047519/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/obj/Debug/net6.0/Lab1-Inyeccion de Dependencias.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Usuario/Desktop/Lab1-KevinRomero-1047519/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/obj/Debug/net6.0/Lab1-Inyeccion de Dependencias.AssemblyInfoInputs.cache
+C:/Users/Usuario/Desktop/Lab1-KevinRomero-1047519/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/obj/Debug/net6.0/Lab1-Inyeccion de Dependencias.AssemblyInfo.cs
+C:/Users/Usuario/Desktop/Lab1-KevinRomero-1047519/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/obj/Debug/net6.0/Lab1-Inyeccion de Dependencias.csproj.CoreCompileInputs.cache
+C:/Users/Usuario/Desktop/Lab1-KevinRomero-1047519/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/obj/Debug/net6.0/Lab1-Inyeccion de Dependencias.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Usuario/Desktop/Lab1-KevinRomero-1047519/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/obj/Debug/net6.0/Lab1-Inyeccion de Dependencias.RazorAssemblyInfo.cache
+C:/Users/Usuario/Desktop/Lab1-KevinRomero-1047519/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/obj/Debug/net6.0/Lab1-Inyeccion de Dependencias.RazorAssemblyInfo.cs
+C:/Users/Usuario/Desktop/Lab1-KevinRomero-1047519/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/Usuario/Desktop/Lab1-KevinRomero-1047519/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/Usuario/Desktop/Lab1-KevinRomero-1047519/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/Usuario/Desktop/Lab1-KevinRomero-1047519/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/obj/Debug/net6.0/scopedcss/bundle/Lab1-Inyeccion de Dependencias.styles.css
+C:/Users/Usuario/Desktop/Lab1-KevinRomero-1047519/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/obj/Debug/net6.0/scopedcss/projectbundle/Lab1-Inyeccion de Dependencias.bundle.scp.css
+C:/Users/Usuario/Desktop/Lab1-KevinRomero-1047519/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/obj/Debug/net6.0/Lab1-Inyeccion de Dependencias.dll
+C:/Users/Usuario/Desktop/Lab1-KevinRomero-1047519/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/obj/Debug/net6.0/refint/Lab1-Inyeccion de Dependencias.dll
+C:/Users/Usuario/Desktop/Lab1-KevinRomero-1047519/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/obj/Debug/net6.0/Lab1-Inyeccion de Dependencias.pdb
+C:/Users/Usuario/Desktop/Lab1-KevinRomero-1047519/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/obj/Debug/net6.0/Lab1-Inyeccion de Dependencias.genruntimeconfig.cache
+C:/Users/Usuario/Desktop/Lab1-KevinRomero-1047519/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/obj/Debug/net6.0/ref/Lab1-Inyeccion de Dependencias.dll
+/Users/kevinromero/Documents/GitHub/Lab1-IngenieriaDeSoftware-KevinRomero-1047519/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/bin/Debug/net6.0/appsettings.Development.json
+/Users/kevinromero/Documents/GitHub/Lab1-IngenieriaDeSoftware-KevinRomero-1047519/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/bin/Debug/net6.0/appsettings.json
+/Users/kevinromero/Documents/GitHub/Lab1-IngenieriaDeSoftware-KevinRomero-1047519/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/bin/Debug/net6.0/Lab1-Inyeccion de Dependencias.staticwebassets.runtime.json
+/Users/kevinromero/Documents/GitHub/Lab1-IngenieriaDeSoftware-KevinRomero-1047519/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/bin/Debug/net6.0/Lab1-Inyeccion de Dependencias
+/Users/kevinromero/Documents/GitHub/Lab1-IngenieriaDeSoftware-KevinRomero-1047519/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/bin/Debug/net6.0/Lab1-Inyeccion de Dependencias.deps.json
+/Users/kevinromero/Documents/GitHub/Lab1-IngenieriaDeSoftware-KevinRomero-1047519/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/bin/Debug/net6.0/Lab1-Inyeccion de Dependencias.runtimeconfig.json
+/Users/kevinromero/Documents/GitHub/Lab1-IngenieriaDeSoftware-KevinRomero-1047519/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/bin/Debug/net6.0/Lab1-Inyeccion de Dependencias.dll
+/Users/kevinromero/Documents/GitHub/Lab1-IngenieriaDeSoftware-KevinRomero-1047519/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/bin/Debug/net6.0/Lab1-Inyeccion de Dependencias.pdb
+/Users/kevinromero/Documents/GitHub/Lab1-IngenieriaDeSoftware-KevinRomero-1047519/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/obj/Debug/net6.0/Lab1-Inyeccion de Dependencias.csproj.AssemblyReference.cache
+/Users/kevinromero/Documents/GitHub/Lab1-IngenieriaDeSoftware-KevinRomero-1047519/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/obj/Debug/net6.0/Lab1-Inyeccion de Dependencias.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevinromero/Documents/GitHub/Lab1-IngenieriaDeSoftware-KevinRomero-1047519/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/obj/Debug/net6.0/Lab1-Inyeccion de Dependencias.AssemblyInfoInputs.cache
+/Users/kevinromero/Documents/GitHub/Lab1-IngenieriaDeSoftware-KevinRomero-1047519/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/obj/Debug/net6.0/Lab1-Inyeccion de Dependencias.AssemblyInfo.cs
+/Users/kevinromero/Documents/GitHub/Lab1-IngenieriaDeSoftware-KevinRomero-1047519/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/obj/Debug/net6.0/Lab1-Inyeccion de Dependencias.csproj.CoreCompileInputs.cache
+/Users/kevinromero/Documents/GitHub/Lab1-IngenieriaDeSoftware-KevinRomero-1047519/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/obj/Debug/net6.0/Lab1-Inyeccion de Dependencias.MvcApplicationPartsAssemblyInfo.cache
+/Users/kevinromero/Documents/GitHub/Lab1-IngenieriaDeSoftware-KevinRomero-1047519/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/obj/Debug/net6.0/Lab1-Inyeccion de Dependencias.RazorAssemblyInfo.cache
+/Users/kevinromero/Documents/GitHub/Lab1-IngenieriaDeSoftware-KevinRomero-1047519/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/obj/Debug/net6.0/Lab1-Inyeccion de Dependencias.RazorAssemblyInfo.cs
+/Users/kevinromero/Documents/GitHub/Lab1-IngenieriaDeSoftware-KevinRomero-1047519/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/obj/Debug/net6.0/staticwebassets/msbuild.Lab1-Inyeccion de Dependencias.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/kevinromero/Documents/GitHub/Lab1-IngenieriaDeSoftware-KevinRomero-1047519/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/obj/Debug/net6.0/staticwebassets/msbuild.build.Lab1-Inyeccion de Dependencias.props
+/Users/kevinromero/Documents/GitHub/Lab1-IngenieriaDeSoftware-KevinRomero-1047519/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Lab1-Inyeccion de Dependencias.props
+/Users/kevinromero/Documents/GitHub/Lab1-IngenieriaDeSoftware-KevinRomero-1047519/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Lab1-Inyeccion de Dependencias.props
+/Users/kevinromero/Documents/GitHub/Lab1-IngenieriaDeSoftware-KevinRomero-1047519/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/kevinromero/Documents/GitHub/Lab1-IngenieriaDeSoftware-KevinRomero-1047519/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/obj/Debug/net6.0/staticwebassets.build.json
+/Users/kevinromero/Documents/GitHub/Lab1-IngenieriaDeSoftware-KevinRomero-1047519/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/obj/Debug/net6.0/staticwebassets.development.json
+/Users/kevinromero/Documents/GitHub/Lab1-IngenieriaDeSoftware-KevinRomero-1047519/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/kevinromero/Documents/GitHub/Lab1-IngenieriaDeSoftware-KevinRomero-1047519/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/obj/Debug/net6.0/scopedcss/bundle/Lab1-Inyeccion de Dependencias.styles.css
+/Users/kevinromero/Documents/GitHub/Lab1-IngenieriaDeSoftware-KevinRomero-1047519/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/obj/Debug/net6.0/scopedcss/projectbundle/Lab1-Inyeccion de Dependencias.bundle.scp.css
+/Users/kevinromero/Documents/GitHub/Lab1-IngenieriaDeSoftware-KevinRomero-1047519/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/obj/Debug/net6.0/Lab1-Inyeccion de Dependencias.dll
+/Users/kevinromero/Documents/GitHub/Lab1-IngenieriaDeSoftware-KevinRomero-1047519/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/obj/Debug/net6.0/refint/Lab1-Inyeccion de Dependencias.dll
+/Users/kevinromero/Documents/GitHub/Lab1-IngenieriaDeSoftware-KevinRomero-1047519/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/obj/Debug/net6.0/Lab1-Inyeccion de Dependencias.pdb
+/Users/kevinromero/Documents/GitHub/Lab1-IngenieriaDeSoftware-KevinRomero-1047519/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/obj/Debug/net6.0/Lab1-Inyeccion de Dependencias.genruntimeconfig.cache
+/Users/kevinromero/Documents/GitHub/Lab1-IngenieriaDeSoftware-KevinRomero-1047519/Lab1-Inyeccion de Dependencias/Lab1-Inyeccion de Dependencias/obj/Debug/net6.0/ref/Lab1-Inyeccion de Dependencias.dll
